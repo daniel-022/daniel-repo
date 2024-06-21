@@ -14,6 +14,6 @@ Welcome to my profile! I'm a student, discord bot developer and part-time coder.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="daniellow410@gmail.com" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="daniel low" height="40" width="40" /></a>
+<a href="mailto:daniellow410@gmail.com" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="daniel low" height="40" width="40" /></a>
 <a href="https://instagram.com/daniel.0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.0222" height="30" width="40" /></a>
 </p>
