@@ -3,6 +3,7 @@
 
 Welcome to my profile! I'm a student, discord bot developer and part-time coder. Currently pursuing major in electronic engineering with honours
 
+[![Generic badge](https://img.shields.io/badge/<STATUS>-<ONLINE>-<COLOR>.svg)](https://shields.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
